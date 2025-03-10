@@ -1,0 +1,10 @@
+scikit-learn
+sentence-transformers==2.7.0 
+pandas 
+numpy
+boto3 
+nltk
+flask
+Flask-WTF 
+bleach 
+gunicorn

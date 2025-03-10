@@ -1,0 +1,19 @@
+{"preprocess_param" : {
+    "json_input": false,
+    "add_lst_stop_words": ["would", "like", "year", "please", "could", "know"],
+    "minus_lst_stop_words": [],
+    "upper2lower": true,
+    "remove_apostrophe": true,
+    "remove_stop_words": true,
+    "spell_correction": false,
+    "remove_incorrect_words": false,
+    "remove_punctuations": true,
+    "remove_numbers": true,
+    "convert_numbers": false,
+    "lemmitization": true,
+    "stemming": false
+},
+"Corrected_HCID": {"Level 1": "Enrollment", "Level 2": "HCID", "Level 3": "HCID Corrected"},
+"HCID": {"Level 1": "Enrollment", "Level 2": "HCID", "Level 3": "Correction Pending"},
+"Others":"Others"
+}
